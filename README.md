@@ -9,5 +9,6 @@ Suite of code to generate, insert, and run data to test Armstrong system
   - this script copies fresh data from the network mounted folder, and executes myJlink.py
   - myJlink.py writes data to specified vacant memory
   - I reprogrammed the Armstrong device to then read from that address for data instead of from its sensors
+  </br>
 This process allows for flexible and thorough testing of the Armstong waveform display, algorithms, and system 
 response - all without relying on sensor conditions.
